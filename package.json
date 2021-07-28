@@ -3,12 +3,17 @@
   "version": "1.0.0",
   "description": "Discord bot for the WayvGD discord server.",
   "main": "./start.js",
+  "types": "./index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Wayvshock",
   "license": "Apache-2.0",
   "dependencies": {
-    "eris": "^0.15.1"
+    "detritus-client": "^0.15.3",
+    "tslog": "^3.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.31.0"
   }
 }
