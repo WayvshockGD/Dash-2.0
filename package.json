@@ -1,0 +1,14 @@
+{
+  "name": "@wayvshock/dash",
+  "version": "1.0.0",
+  "description": "Discord bot for the WayvGD discord server.",
+  "main": "./start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wayvshock",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "eris": "^0.15.1"
+  }
+}
