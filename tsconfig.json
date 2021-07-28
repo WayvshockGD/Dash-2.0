@@ -3,6 +3,7 @@
         "allowJs": true,
         "outDir": "./build",
         "target": "ESNext",
+        "module": "CommonJS",
         "resolveJsonModule": true
     }
 }

@@ -1,6 +1,8 @@
 declare namespace Dash {
-    
+
     interface embedArgs {
-        no_ping: boolean;
+        ping: boolean;
+        levelinfo: string;
+        impo: boolean;
     }
 }
