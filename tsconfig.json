@@ -4,6 +4,6 @@
         "outDir": "./build",
         "target": "ESNext",
         "module": "CommonJS",
-        "resolveJsonModule": true
+        "resolveJsonModule": true,
     }
 }
